@@ -18,7 +18,7 @@ lugia = DPokemon.new("lugia", 2000)
 pikachu = DPokemon.new("pikachu", 2000)
 ```
 
-* Implement equal method(>)
+* Implement equal method(==)
 
 ```
 lugia == pikachu # false
@@ -30,7 +30,7 @@ lugia == pikachu # false
 lugia > pikachu # true
 ```
 
-* Implement less strong method(>)
+* Implement less strong method(<)
 ```
 lugia < pikachu # false
 ```

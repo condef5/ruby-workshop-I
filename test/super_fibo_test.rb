@@ -1,6 +1,6 @@
 require "test_helpers"
 
-class SuperFiboTest # < Minitest::Test 
+class SuperFiboTest # < Minitest::Test
   def test_next
     zero = SuperFibo.new
     one = zero.next
@@ -12,7 +12,7 @@ class SuperFiboTest # < Minitest::Test
   end
 
   # hard tests
-  # def hard_next_test
+  # def test_next_test
   #   zero = SuperFibo.new
   #   one = zero.next
   #   another_one = one.next
