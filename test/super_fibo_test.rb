@@ -12,7 +12,7 @@ class SuperFiboTest # < Minitest::Test
   end
 
   # hard tests
-  # def test_next_test
+  # def test_hard
   #   zero = SuperFibo.new
   #   one = zero.next
   #   another_one = one.next

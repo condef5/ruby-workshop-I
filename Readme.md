@@ -85,7 +85,7 @@ Have you heard of Leonardo Pisano? Not yet? Don't worry, He invented a famous su
 
 Maybe now you have an idea, this is the fibonacci sequence.
 
-Your task here will be to implement a class and `next` method:
+Your task here will be to implement a fibonacci sequence with objects:
 
 Example of code:
 
